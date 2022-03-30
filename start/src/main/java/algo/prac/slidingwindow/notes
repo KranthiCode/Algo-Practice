@@ -1,0 +1,12 @@
+Type 1 problems: Fixed window length K
+  we need variable to maintain the state of the window
+  some time we may need data structure - list, queue, deque
+
+
+Type 2 problems: Two pointers + Criteria
+  Ex: array of integers, find the number of subarrays whose sum is equal to a particular number
+
+
+Solving them is:
+  expand on one side and contract on the other side
+  
