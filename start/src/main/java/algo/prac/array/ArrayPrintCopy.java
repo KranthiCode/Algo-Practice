@@ -35,7 +35,7 @@ public class ArrayPrintCopy {
     Arrays.sort(a);
 
     // 2. Sort Array in reverse order - Collections.reverse is applicable on Non
-    // Primitives/Objects
+    // Primitives/Objects only
     Integer[] arr = { 13, 7, 6, 45, 21, 9, 2, 100 };
     Arrays.sort(arr, Collections.reverseOrder());
 
