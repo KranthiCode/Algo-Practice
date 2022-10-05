@@ -10,6 +10,7 @@ public class ArrayPrintCopy {
     // Print all array elements
     // 1
     Arrays.stream(a).forEach(System.out::println);
+
     Arrays.stream(a).forEach(i -> System.out.print(i * 5));
     // 2
     for (int i : a) {

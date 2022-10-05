@@ -1,4 +1,4 @@
-package algo.prac.lc;
+package algo.prac.leetcode;
 
 public class LongestPalindrome {
   public static String longestPalindrome(String s) {

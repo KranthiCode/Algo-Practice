@@ -1,0 +1,276 @@
+{
+  "partAGEN2": null,
+  "personalInfo": {
+    "fatherName": "NARASIMHA RAO YADAVALLI",
+    "orgFirmInfo": {
+      "AssesseeName": {
+        "SurNameOrOrgName": "YADAVALLI"
+      },
+      "DateOFFormOrIncorp": "1994-06-10",
+      "StatusOrCompanyType": "IND"
+    },
+    "address": {
+      "zipCode": "",
+      "localityOrArea": "K.V.RANGAREDDY",
+      "residenceNo": "101/Jannapu reddy buildings",
+      "cityOrTownOrDistrict": "Kondapur B.O",
+      "mobileNo": 9849035383,
+      "emailAddressSecondary": "yadavallikranthi@gmail.com",
+      "mobileNoSec": 9573273073,
+      "emailAddress": "ykranthi123@gmail.com",
+      "countryCodeMobile": 91,
+      "phone": {},
+      "countryCode": "91",
+      "roadOrStreet": "Serilingampally",
+      "pinCode": 500084,
+      "stateCode": "36",
+      "residenceName": "New Cyber Valley, Hafeezpet"
+    },
+    "assesseeName": {
+      "firstName": "KRANTHI KUMAR",
+      "surNameOrOrgName": "YADAVALLI"
+    },
+    "portugeseCC5A": "",
+    "assesseeVerName": "KRANTHI KUMAR YADAVALLI",
+    "capacity": "Self",
+    "filingStatus": {
+      "residentialStatus": "RES"
+    },
+    "assesseVerPan": "AKYPY7340K",
+    "dob": "1994-06-10",
+    "aadhaarCardNo": "ODgwNjc4NDQ5OTUy",
+    "pan": "AKYPY7340K",
+    "status": "I"
+  },
+  "orgFirmInfo": null,
+  "ais": null,
+  "form10DA": null,
+  "form3CD": null,
+  "scheduleAL": null,
+  "form3CE": null,
+  "ScheduleESOP": null,
+  "formCCBA": null,
+  "auditInfo": null,
+  "form26as": {
+    "scheduleOS": {
+      "incOthThanOwnRaceHorse": {
+        "dividendGross": 57,
+        "DividendOthThan22e": 57
+      }
+    },
+    "persumptiveInc44ADA": {
+      "grsReceipt": 0
+    },
+    "tdsOnSalaries": {
+      "tdsOnSalary": [
+        {
+          "totalTDSSal": 55092,
+          "incChrgSal": 1253262,
+          "employerOrDeductorOrCollectDetl": {
+            "tan": "HYDR04497D",
+            "employerOrDeductorOrCollecterName": "GLOBALLOGIC TECHNOLOGIES PRIVATE LIMITED"
+          }
+        }
+      ]
+    },
+    "incomeDeductionsOthersInc": [
+      {
+        "othSrcOthAmount": 57,
+        "othSrcNatureDesc": "DIV"
+      }
+    ]
+  },
+  "form10IBICID": null,
+  "incDeductionsOthIncCPC": [
+    {
+      "itrAy": "2020",
+      "othSrcOthAmount": 0,
+      "othSrcNatureDesc": "TAX"
+    }
+  ],
+  "otherSourceIncome": null,
+  "form10IE": {
+    "NewTaxRegime": "N"
+  },
+  "form10CCE": null,
+  "formCCBD": null,
+  "form10CCF": null,
+  "formCCBC": null,
+  "formCCBB": null,
+  "form10CCD": null,
+  "form67": null,
+  "assesseeRep": null,
+  "itba": null,
+  "form66": null,
+  "form10E": null,
+  "form64D": null,
+  "verification": {
+    "declaration": {
+      "fatherName": "NARASIMHA RAO YADAVALLI",
+      "assesseeVerPAN": "AKYPY7340K",
+      "assesseeVerName": "KRANTHI KUMAR YADAVALLI"
+    },
+    "capacity": "Self"
+  },
+  "bankAccountDtls": [
+    {
+      "addtnlBankDetails": [
+        {
+          "useForRefund": "true",
+          "bankAccountNo": "6011620701",
+          "bankName": "KOTAK MAHINDRA BANK LIMITED",
+          "ifsccode": "KKBK0007466"
+        },
+        {
+          "useForRefund": "false",
+          "bankAccountNo": "6011620701",
+          "bankName": "KOTAK MAHINDRA BANK",
+          "ifsccode": "KKBK0000561"
+        },
+        {
+          "useForRefund": "true",
+          "bankAccountNo": "50100211866351",
+          "bankName": "HDFC BANK",
+          "ifsccode": "HDFC0004173"
+        }
+      ]
+    }
+  ],
+  "form56F": null,
+  "form64A": null,
+  "insights": {
+    "cumulativeSalary": {
+      "perquisitesValue": 0,
+      "profitsInSalary": 0,
+      "salary": 1253262,
+      "salaryUpdateTimestamp": "2021-11-25 13:59:09.0"
+    },
+    "salaries": {
+      "salary": [
+        {
+          "nameOfEmployer": "GLOBALLOGIC TECHNOLOGIES PRIVATE LIMITED",
+          "salarys": {
+            "salary": 1253262
+          },
+          "tanOfEmployer": "HYDR04497D"
+        }
+      ]
+    },
+    "scheduleOS": {
+      "incOthThanOwnRaceHorse": {
+        "dividendGross": 57,
+        "DividendOthThan22e": 57
+      }
+    },
+    "incomeDeductionsOthersInc": [
+      {
+        "othSrcOthAmount": 57,
+        "othSrcNatureDesc": "DIV"
+      }
+    ]
+  },
+  "form10CCB": null,
+  "form29b": null,
+  "form10IF": null,
+  "scheduleCFL": null,
+  "form10BOR10BB": null,
+  "natOfBus": null,
+  "filingReturn": null,
+  "filingStatus": {
+    "receiptNo": "374506760241221",
+    "returnFileSec": 17,
+    "OptingNewTaxRegime": 2,
+    "origRetFiledDate": "2021-12-24"
+  },
+  "form24q": {
+    "taxComputation": {
+      "section89": 0
+    },
+    "form24qTimestamp": "2021-07-21 03:04:26.954",
+    "usrDeductUndChapVIAType": {
+      "section80CCD1B": 0,
+      "section80CCDEmployeeOrSE": 0,
+      "section80TTA": 0,
+      "section80C": 150000,
+      "section80CCC": 0,
+      "section80E": 0,
+      "section80CCDEmployer": 0
+    },
+    "dedDetId24Q": "449503358",
+    "salaries": {
+      "salary": [
+        {
+          "addressDetail": {
+            "zipCode": "",
+            "addDetail": "PLOT NO-590 A PHASE-1 ROAD NO.31 JUBILEE HILLS",
+            "pinCode": "550033",
+            "stateCode": "36",
+            "cityOrTownOrDistrict": "HYDERABAD"
+          },
+          "nameOfEmployer": "GLOBALLOGIC TECHNOLOGIES PRIVATE LIMITED",
+          "salarys": {
+            "valueOfPerquisites": 0,
+            "profitsinLieuOfSalary": 0,
+            "salary": 1253262
+          },
+          "tanOfEmployer": "HYDR04497D"
+        }
+      ]
+    },
+    "incomeDeductions": {
+      "perquisitesValue": 0,
+      "entertainmentAlw16Ii": 0,
+      "professionalTaxUs16Iii": 2400,
+      "totalIncomeChargeableUnHP": 0,
+      "profitsInSalary": 0,
+      "deductionUs16Ia": 50000,
+      "totalIncomeOfHP": -200000,
+      "salary": 1253262
+    },
+    "allwncExemptUs10DtlsType": [
+      {
+        "salOthAmount": 0,
+        "salNatureDesc": "10(5)"
+      },
+      {
+        "salOthAmount": 0,
+        "salNatureDesc": "10(10)"
+      },
+      {
+        "salOthAmount": 0,
+        "salNatureDesc": "10(10A)"
+      },
+      {
+        "salOthAmount": 146298,
+        "salNatureDesc": "10(13A)"
+      }
+    ],
+    "TotalAllwncExemptUs10": 146298,
+    "isActive": false
+  },
+  "lastFiledITR": {
+    "foreignBankDetails": [],
+    "usrDeductUndChapVIAType": {
+      "section80DDB": 0,
+      "section80DD": 0,
+      "section80U": 0
+    },
+    "typeOfHP": "L",
+    "employerCategory": "OTH",
+    "totalNumOfMonths": 0,
+    "bankAccountDtls": [
+      {
+        "addtnlBankDetails": [
+          {
+            "useForRefund": "true",
+            "bankAccountNo": "50100211866351",
+            "bankName": "HDFC BANK",
+            "ifsccode": "HDFC0004173"
+          }
+        ]
+      }
+    ]
+  },
+  "form3CEA": null,
+  "form3CEB": null
+}

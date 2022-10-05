@@ -1,7 +1,5 @@
 package algo.prac.hackerrank;
 
-import java.util.Arrays;
-
 public class BiggerIsGreater {
   public static String biggerIsGreater(String w) {
     // dhck - dhkc

@@ -1,0 +1,226 @@
+{
+  "partAGEN2": null,
+  "personalInfo": {
+    "fatherName": "TATRASHI VINAYAK RAO",
+    "orgFirmInfo": {
+      "AssesseeName": { "SurNameOrOrgName": "SUPARNA" },
+      "DateOFFormOrIncorp": "1993-09-25",
+      "StatusOrCompanyType": "IND"
+    },
+    "address": {
+      "zipCode": "",
+      "localityOrArea": "HYDERABAD",
+      "residenceNo": "Flat NO: 808,Vijetha Midas Touch Apartments",
+      "cityOrTownOrDistrict": "",
+      "mobileNo": 8500165034,
+      "emailAddressSecondary": "tatrashisuparna@gmail.com",
+      "mobileNoSec": 9676541049,
+      "emailAddress": "suparnatatrashi@gmail.com",
+      "countryCodeMobile": 91,
+      "phone": {},
+      "countryCode": "91",
+      "roadOrStreet": "Kothaguda, Hyderabad",
+      "pinCode": 500084,
+      "stateCode": "36",
+      "residenceName": "White fileds"
+    },
+    "assesseeName": { "firstName": "TATRASHI", "surNameOrOrgName": "SUPARNA" },
+    "portugeseCC5A": "",
+    "assesseeVerName": "TATRASHI SUPARNA",
+    "capacity": "Self",
+    "filingStatus": { "residentialStatus": "RES" },
+    "assesseVerPan": "GIFPS0928N",
+    "dob": "1993-09-25",
+    "aadhaarCardNo": "NzIwMjMwMTc0NjM2",
+    "pan": "GIFPS0928N",
+    "status": "I"
+  },
+  "orgFirmInfo": null,
+  "ais": null,
+  "form10DA": null,
+  "form3CD": null,
+  "scheduleAL": null,
+  "form3CE": null,
+  "ScheduleESOP": null,
+  "formCCBA": null,
+  "auditInfo": null,
+  "form26as": {
+    "scheduleOS": { "incOthThanOwnRaceHorse": {} },
+    "persumptiveInc44ADA": { "grsReceipt": 0 },
+    "tdsOnSalaries": {
+      "tdsOnSalary": [
+        {
+          "totalTDSSal": 60950,
+          "incChrgSal": 1010550,
+          "employerOrDeductorOrCollectDetl": {
+            "tan": "HYDI04119D",
+            "employerOrDeductorOrCollecterName": "IVY SOFTWARE DEVELOPMENT SERVICES PRIVATE LIMITED"
+          }
+        }
+      ]
+    },
+    "incomeDeductionsOthersInc": [
+      { "othSrcOthAmount": 8671, "othSrcNatureDesc": "IFD" },
+      { "othSrcOthAmount": 145, "othSrcNatureDesc": "TAX" },
+      { "othSrcOthAmount": 23831, "othSrcNatureDesc": "SAV" }
+    ],
+    "intrstFrmTermDeposit": 8671
+  },
+  "form10IBICID": null,
+  "incDeductionsOthIncCPC": [
+    { "itrAy": "2020", "othSrcOthAmount": 145, "othSrcNatureDesc": "TAX" }
+  ],
+  "otherSourceIncome": null,
+  "form10IE": { "NewTaxRegime": "N" },
+  "form10CCE": null,
+  "formCCBD": null,
+  "form10CCF": null,
+  "formCCBC": null,
+  "formCCBB": null,
+  "form10CCD": null,
+  "form67": null,
+  "assesseeRep": null,
+  "itba": null,
+  "form66": null,
+  "form10E": null,
+  "form64D": null,
+  "verification": {
+    "declaration": {
+      "fatherName": "TATRASHI VINAYAK RAO",
+      "assesseeVerPAN": "GIFPS0928N",
+      "assesseeVerName": "TATRASHI SUPARNA"
+    },
+    "capacity": "Self"
+  },
+  "bankAccountDtls": [
+    {
+      "addtnlBankDetails": [
+        {
+          "useForRefund": "true",
+          "bankAccountNo": "9011744231",
+          "bankName": "KOTAK MAHINDRA BANK",
+          "ifsccode": "KKBK0000431"
+        }
+      ]
+    }
+  ],
+  "form56F": null,
+  "form64A": null,
+  "insights": {
+    "cumulativeSalary": {
+      "perquisitesValue": 0,
+      "profitsInSalary": 0,
+      "salary": 1010551,
+      "salaryUpdateTimestamp": "2021-11-25 13:59:09.0"
+    },
+    "salaries": {
+      "salary": [
+        {
+          "nameOfEmployer": "IVY SOFTWARE DEVELOPMENT SERVICES PRIVATE LIMITED",
+          "salarys": { "salary": 1010551 },
+          "tanOfEmployer": "HYDI04119D"
+        }
+      ]
+    },
+    "incDeductionsOthIncCPC": [
+      { "itrAy": "2020", "othSrcOthAmount": 145, "othSrcNatureDesc": "TAX" }
+    ],
+    "intrstFrmSavingBank": 23831,
+    "intrstFrmTermDeposit": 8671,
+    "incomeDeductionsOthersInc": [
+      { "othSrcOthAmount": 8671, "othSrcNatureDesc": "IFD" },
+      { "othSrcOthAmount": 145, "othSrcNatureDesc": "TAX" },
+      { "othSrcOthAmount": 23831, "othSrcNatureDesc": "SAV" }
+    ]
+  },
+  "form10CCB": null,
+  "form29b": null,
+  "form10IF": null,
+  "scheduleCFL": null,
+  "form10BOR10BB": null,
+  "natOfBus": null,
+  "filingReturn": null,
+  "filingStatus": {
+    "receiptNo": "390623740241221",
+    "returnFileSec": 17,
+    "OptingNewTaxRegime": 2,
+    "origRetFiledDate": "2021-12-24"
+  },
+  "form24q": {
+    "taxComputation": { "section89": 0 },
+    "form24qTimestamp": "2021-07-21 02:59:30.371",
+    "usrDeductUndChapVIAType": {
+      "section80CCD1B": 0,
+      "section80CCDEmployeeOrSE": 0,
+      "section80TTA": 0,
+      "section80C": 150000,
+      "section80CCC": 0,
+      "section80E": 0,
+      "section80CCDEmployer": 0
+    },
+    "dedDetId24Q": "448767943",
+    "salaries": {
+      "salary": [
+        {
+          "addressDetail": {
+            "zipCode": "",
+            "addDetail": "ADD_LINE_1 DIVYASHREE OMEGA PLOT NO.13/E, SURVERYNO13 KONDAPUR",
+            "pinCode": "500081",
+            "stateCode": "2",
+            "cityOrTownOrDistrict": "HYDERABAD"
+          },
+          "nameOfEmployer": "IVY SOFTWARE DEVELOPMENT SERVICES PRIVATE LIMITED",
+          "salarys": {
+            "valueOfPerquisites": 0,
+            "profitsinLieuOfSalary": 0,
+            "salary": 1010551
+          },
+          "tanOfEmployer": "HYDI04119D"
+        }
+      ]
+    },
+    "incomeDeductions": {
+      "perquisitesValue": 0,
+      "entertainmentAlw16Ii": 0,
+      "professionalTaxUs16Iii": 2400,
+      "totalIncomeChargeableUnHP": 0,
+      "profitsInSalary": 0,
+      "deductionUs16Ia": 50000,
+      "totalIncomeOfHP": 0,
+      "salary": 1010551
+    },
+    "allwncExemptUs10DtlsType": [
+      { "salOthAmount": 0, "salNatureDesc": "10(5)" },
+      { "salOthAmount": 0, "salNatureDesc": "10(10)" },
+      { "salOthAmount": 0, "salNatureDesc": "10(10A)" },
+      { "salOthAmount": 59640, "salNatureDesc": "10(13A)" }
+    ],
+    "intrstFrmSavingBank": 23831,
+    "TotalAllwncExemptUs10": 77640,
+    "isActive": false
+  },
+  "lastFiledITR": {
+    "foreignBankDetails": [],
+    "usrDeductUndChapVIAType": {
+      "section80DDB": 0,
+      "section80DD": 0,
+      "section80U": 0
+    },
+    "employerCategory": "OTH",
+    "totalNumOfMonths": 0,
+    "bankAccountDtls": [
+      {
+        "addtnlBankDetails": [
+          {
+            "useForRefund": "true",
+            "bankAccountNo": "9011744231",
+            "bankName": "KOTAK MAHINDRA BANK LIMITED",
+            "ifsccode": "KKBK0000431"
+          }
+        ]
+      }
+    ]
+  },
+  "form3CEA": null,
+  "form3CEB": null
+}

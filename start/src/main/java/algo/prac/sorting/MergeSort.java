@@ -1,12 +1,23 @@
 package algo.prac.sorting;
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.stream.Collectors;
 
 public class MergeSort {
   public static void main(String[] args) {
     int[] a = { 2, 34, 23, 21, 7, 9, 10 };
     mergeSort(a, 0, a.length - 1);
     Arrays.stream(a).forEach(System.out::println);
+    Map<String, Integer> hm = new HashMap<>();
+    hm.entrySet().stream().sorted(Entry.comparingByValue())
+        .collect(Collectors.toMap(Entry::toString, Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
+
+    hm.entrySet().stream().sorted(Entry.comparingByValue()).collect(() -> new LinkedHashMap<>(),
+        (c, e) -> c.put(e.getKey(), e.getValue()), (c1, c2) -> c1.putAll(c2));
   }
 
   // 1. Divide the array into left and right

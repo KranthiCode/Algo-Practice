@@ -1,13 +1,8 @@
 package algo.prac.generic;
 
-import java.util.Arrays;
 import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.Stack;
 import java.util.Map.Entry;
-import java.util.function.Function;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
 
 public class GenerateAllSubArrays {
   private static void subArrays(int[] arr) {
@@ -69,6 +64,7 @@ public class GenerateAllSubArrays {
     for (int i = start; i < str.length(); i++) {
       subStr = subStr + str.charAt(i);
       System.out.println(subStr);
+
     }
     subStringRecursive(str, start + 1);
   }
