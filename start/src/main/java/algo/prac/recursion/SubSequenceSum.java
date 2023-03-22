@@ -1,7 +1,10 @@
 package algo.prac.recursion;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class SubSequenceSum {
   static void subSequenceSum(int[] arr, List<Integer> list, int index, int n, int sum, int currentSum) {
@@ -77,11 +80,14 @@ public class SubSequenceSum {
   public static void main(String[] args) {
     int[] arr = { 6, 4, 3, 9, 1, 8, 2, 5, 7 };
     // Returns alls subsets that are equal to sum
-    // subSequenceSum(arr, new ArrayList<>(), 0, arr.length, 10, 0);
+    subSequenceSum(arr, new ArrayList<>(), 0, arr.length, 10, 0);
 
     // Returns only one subset that is equal to sum
-    System.out.println(subSequenceSum1(arr, new ArrayList<>(), 0, arr.length, 10, 0));
+    System.out.println(subSequenceSum1(arr, new ArrayList<>(), 0, arr.length, 10,
+        0));
 
-    System.out.println(countSubSequenceSum(arr, new ArrayList<>(), 0, arr.length, 10, 0));
+    System.out.println(countSubSequenceSum(arr, new ArrayList<>(), 0, arr.length,
+        10, 0));
+
   }
 }

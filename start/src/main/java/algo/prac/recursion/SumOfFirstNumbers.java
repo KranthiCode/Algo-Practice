@@ -15,7 +15,6 @@ public class SumOfFirstNumbers {
       return;
     }
     sumOfFirstNumbers1(n - 1, sum + n);
-
   }
 
   public static void main(String[] args) {

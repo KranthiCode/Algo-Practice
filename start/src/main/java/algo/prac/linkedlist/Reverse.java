@@ -50,8 +50,6 @@ public class Reverse {
 
     printInReverseRecursion(head);
     printLinkedList(head);
-    // printInReverse(head);
-
   }
 
   // 1 --> 2 --> 3 --> 4 --> null
